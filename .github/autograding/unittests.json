@@ -1,0 +1,20 @@
+[
+  {
+    "name": "test_filter_by_age",
+    "function": "test_filter_by_age",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_filter_by_class",
+    "function": "test_filter_by_class",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_filter_students",
+    "function": "test_filter_students",
+    "timeout": 10,
+    "points": 1
+  }
+]
