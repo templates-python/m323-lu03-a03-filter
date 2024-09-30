@@ -7,8 +7,8 @@ def filter_by_age(students, age):
     :return: Gefilterte Liste von Studenten
     """
     pass
-    
-    
+
+
 def filter_by_class(students, class_name):
     """
     Filtert die Studentenliste nach einer gegebenen Klasse.
@@ -18,7 +18,7 @@ def filter_by_class(students, class_name):
     :return: Gefilterte Liste von Studenten
     """
     pass
-    
+
 
 def filter_students(students, filter_function, *args):
     """
@@ -31,12 +31,12 @@ def filter_students(students, filter_function, *args):
     """
     # your code here
     pass
-    
+
 
 if __name__ == '__main__':
     students = [
         {'name': 'Alice', 'age': 15, 'class': '10A'},
         {'name': 'Bob', 'age': 16, 'class': '10B'},
-        {'name': 'Charlie', 'age': 14, 'class': '9A'}
+        {'name': 'Charlie', 'age': 14, 'class': '9A'},
     ]
     # your code here
